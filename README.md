@@ -37,6 +37,6 @@ I am known for my analytical skills, organization, and leadership, as well as my
 - **Herramientas:** Git, GitHub, Figma, Postman  
 
 📫 **Contacto:**  
-- 📧 Email: (mailto:almamani@gmail.com)  
+- 📧 Email: (almamani@gmail.com)  
 - 🐙 GitHub: (https://github.com/almamani)  
 - 💼 LinkedIn: (https://linkedin.com/in/andrea-mamani)  
