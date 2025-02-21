@@ -2,7 +2,7 @@
 
 🚀 Desarrolladora Fullstack | Analista en Sistemas | Docente  
 
-Soy Analista en Sistemas con experiencia en administración en el sector agroindustrial, en paralelo me desempeño  como Fullstack Develop Freelance. Mi pasión por la tecnología y la enseñanza me ha llevado a desempeñarme también como docente de informática.
+Soy Analista en Sistemas con experiencia en administración, en paralelo me desempeño  como Fullstack Develop Freelance. Mi pasión por la tecnología y la enseñanza me ha llevado a desempeñarme también como docente de informática.
 
 Recientemente finalicé la carrera de Desarrollo Full Stack en Henry, lo que me permitió actualizarme y actualizar mis conocimientos en las tecnologías más utilizadas (Next.js, React.js, JavaScript, HTML 5, CSS3, Node.js, PostgreSQL, MongoDB, Git & GitHub, Figma ).
 
